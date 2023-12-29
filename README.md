@@ -1,1 +1,1 @@
-# Prudhvi-Academy-Demo
+# educational.github.io
